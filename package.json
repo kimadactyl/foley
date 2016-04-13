@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fephil/foley.git"
+    "url": "git+https://github.com/fephil/foley.git"
   },
   "bugs": {
     "url": "https://github.com/fephil/foley/issues"
@@ -16,6 +16,7 @@
     "node": ">= 4"
   },
   "scripts": {
+    "start": "gulp --debug",
     "test": "gulp deploy --production --debug"
   },
   "devDependencies": {
@@ -78,5 +79,7 @@
     "presets": [
       "es2015"
     ]
-  }
+  },
+  "homepage": "https://github.com/fephil/foley#readme",
+  "main": "Azkfile.js"
 }

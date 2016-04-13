@@ -39,7 +39,13 @@ Comments, suggestions & pull requests are always welcome. See the [issues list](
 
 ## Install
 
-Download the latest stable release from [GitHub](https://github.com/fephil/foley/releases). Once this has been done:
+### One click install with Azuki
+
+[![Run project](https://s3-sa-east-1.amazonaws.com/assets.azk.io/run-project.png)](http://run.azk.io/start/?repo=kimadactyl/foley&ref=azkfile)
+
+### Manual install
+
+Download the latest stable release from [GitHub](https://github.com/fephil/foley/releases).
 
 * Install Node 4 LTS,
 * (Recommended) Run in Terminal: `npm i npm -g` (Update NPM to latest version),
